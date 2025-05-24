@@ -26,7 +26,7 @@ HTTP (Network Requests)
 
 | Home Screen | Screenshot-1 | Screenshot-2 |
 |-------------|-------------|-------------|
-| ![Home](Images/HomeScreen.jpg) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Istambul.jpg)
+| ![Home](Images/HomePage.jpg) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Islamabad.jpg)
 ## 🚀 Installation
 
 1. **Clone the repository**
