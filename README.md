@@ -43,3 +43,16 @@ HTTP (Network Requests)
 
    ```bash
    flutter run
+
+## 🏗️ Project Structure
+
+    lib/
+    ├── main.dart                # App entry point
+    ├── models/
+    │   └── weather_model.dart   # Data models
+    ├── services/
+    │   └── weather_services.dart # API services
+    ├── widgets/
+    │   └── weather_card.dart    # Reusable widgets
+    └── screens/
+    └── home_screen.dart     # Main screen
